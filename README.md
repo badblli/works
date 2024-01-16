@@ -16,6 +16,10 @@ Node.js sürümü: **16.16.0**
 
 Not: Bazı projeler için NVM kullanacağız. Node.js son LTS sürümünü kullanmak için [NVM-Windows](https://github.com/coreybutler/nvm-windows#readme) kullanabilirsiniz.
 
+# Chrome Uzantıları ve Faydalı Bookmarks
+
+[Drive İndirme Linki](https://drive.google.com/file/d/1zP0mRLciXxAYyj7_f1175VwSsU7o2V98/view?usp=sharing)
+
 # Visual Studio Code Eklentileri
 
 - bierner.color-info
