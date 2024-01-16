@@ -18,7 +18,7 @@ Not: Bazı projeler için NVM kullanacağız. Node.js son LTS sürümünü kulla
 
 # Chrome Uzantıları ve Faydalı Bookmarks
 
-[Drive İndirme Linki](https://drive.google.com/file/d/1zP0mRLciXxAYyj7_f1175VwSsU7o2V98/view?usp=sharing)
+[Drive İndirme Linki]([https://drive.google.com/file/d/1zP0mRLciXxAYyj7_f1175VwSsU7o2V98/view?usp=sharing](https://drive.google.com/drive/folders/1bk6V9yY4xw_Hv89TEiLmyLzYZCwqr9jQ?usp=sharing))
 
 # Visual Studio Code Eklentileri
 
