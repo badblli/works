@@ -20,41 +20,6 @@ Not: Bazı projeler için NVM kullanacağız. Node.js son LTS sürümünü kulla
 
 [Drive İndirme Linki](https://drive.google.com/file/d/1zP0mRLciXxAYyj7_f1175VwSsU7o2V98/view?usp=sharing](https://drive.google.com/drive/folders/1bk6V9yY4xw_Hv89TEiLmyLzYZCwqr9jQ?usp=sharing))
 
-# Visual Studio Code Eklentileri
+# Visual Studio Code Ayarları ve Eklentiler
 
-```json
-{
-  "Eklentiler": [
-    "bierner.color-info",
-    "bierner.markdown-emoji",
-    "BracketPairColorDLW.bracket-pair-color-dlw",
-    "bradlc.vscode-tailwindcss",
-    "csstools.postcss",
-    "dbaeumer.vscode-eslint",
-    "eamodio.gitlens",
-    "esbenp.prettier-vscode",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-complete-tag",
-    "formulahendry.auto-rename-tag",
-    "Framer.framer-syntax",
-    "GitHub.copilot",
-    "GitHub.copilot-chat",
-    "mgmcdermott.vscode-language-babel",
-    "mquandalle.graphql",
-    "ms-vscode.vscode-typescript-next",
-    "naumovs.color-highlight",
-    "pmneo.tsimporter",
-    "pranaygp.vscode-css-peek",
-    "redhat.vscode-yaml",
-    "SimonSiefke.svg-preview",
-    "sporiley.css-auto-prefix",
-    "stylelint.vscode-stylelint",
-    "syler.sass-indented",
-    "TabNine.tabnine-vscode",
-    "Tyriar.lorem-ipsum",
-    "vscode-icons-team.vscode-icons",
-    "Vue.volar",
-    "vuetifyjs.vuetify-vscode",
-    "xabikos.JavaScriptSnippets"
-  ]
-}
+[VsCode Profil Oluştur ve içe aktar](https://vscode.dev/editor/profile/github/87df97ceb570e1298a251fc3f2e5d1f8)
