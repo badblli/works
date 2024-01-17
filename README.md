@@ -28,4 +28,18 @@ Not: Bazı projeler için NVM kullanacağız. Node.js son LTS sürümünü kulla
 
 [PowerShell Hazır Profil İndir](https://drive.google.com/file/d/1rwsU0avHm0uxiRwU70-bnlNiXsBLg3z2/view?usp=sharing)
 
+- *oh-my-posh* ve bazı powershell eklentileri (history mode && terminal icons) önizleme
+![Custom Terminal](https://i.hizliresim.com/c1pivnq.png)
+
 Not: İndirdiğiniz Dosyayı Belgeler(Documents) altına taşıyın.
+
+# Windows için PowerToys
+
+[Microsoft Store](https://apps.microsoft.com/detail/XP89DCGQ3K6VLD?hl=tr-tr&gl=tr) üzerinden indirip birçok ekstra windows eklentilerini etkinleştirebilirsiniz.
+
+-Örneğin; 
+- *PowerToys Run* eklentisini etkinleştirerek  <kbd>Alt</kbd> + <kbd>Space</kbd> kısayollarıyla birçok uygulamayı başlatabilir veya tarayıcı üzerinde arama yapabilirsiniz.
+
+![PowerToys Run](https://i.hizliresim.com/rfk00uy.png)
+
+
