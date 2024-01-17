@@ -23,3 +23,9 @@ Not: Bazı projeler için NVM kullanacağız. Node.js son LTS sürümünü kulla
 # Visual Studio Code Ayarları ve Eklentiler
 
 [VsCode Profil Oluştur ve içe aktar](https://vscode.dev/editor/profile/github/87df97ceb570e1298a251fc3f2e5d1f8)
+
+# Windows Terminal Özelleştirme
+
+[PowerShell Hazır Profil İndir](https://drive.google.com/file/d/1rwsU0avHm0uxiRwU70-bnlNiXsBLg3z2/view?usp=sharing)
+
+Not: İndirdiğiniz Dosyayı Belgeler(Documents) altına taşıyın.
