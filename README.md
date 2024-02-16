@@ -10,6 +10,7 @@
    - [FortiClient VPN İndirme Linki](https://www.fortinet.com/support/product-downloads)
    -en altta
 6. Host dosyasını güncelleme C:\Windows\System32\drivers\etc
+7. **BackEnd için** Dbeaver
 # Node.js Kurulumu
 
 Node.js sürümü: **16.16.0**
