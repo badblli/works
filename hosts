@@ -1,0 +1,45 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+10.10.22.12			test.nsw.auth.api
+10.10.22.12			test.nsw.auth.admin.api
+10.10.22.12			test.nsw.master.api
+10.10.22.12			test.prospot.master.api
+10.10.22.12			test.prospot.online
+10.10.22.12			test.prospot.sale.api
+10.10.22.12			test.router.api
+10.10.22.12			test.routermanagement.api
+10.10.22.12			test.content.api
+10.10.22.12			testmaster.prospot.online
+10.10.22.12			testauthadmin.prospot.online
+10.10.22.12			testauth.prospot.online
+10.10.22.12			testcrm.prospot.online
+10.10.22.12			testnswmaster.prospot.online
+10.10.22.12			testsale.prospot.online
+10.10.22.12			testrouter.prospot.online
+10.10.22.12			testroutermanagement.prospot.online
+10.10.22.12			testlog.prospot.online
+10.10.22.12			api.depoantalya.com
+10.10.22.10			panelapi.depoantalya.com
+10.10.22.10			admin.depoantalya.com
+10.10.22.12			testauth.meanderservices.com
+10.10.22.12			testmservice.meanderservices.com
+10.10.22.12			testmaster.meanderservices.com
