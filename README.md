@@ -1,6 +1,6 @@
 # Kurulması Gereken Uygulamalar
 
-1. **Visual Studio Code**
+1. Frontend için: **Visual Studio Code**, Backend için: **Visual Studio 2022**
 2. **Postman**
 3. **Notepad ++** (ve aşağıdaki eklentiler)
    - JSON Tools
@@ -8,7 +8,8 @@
 4. **Slack**
 5. **FortiClient VPN**
    - [FortiClient VPN İndirme Linki](https://www.fortinet.com/support/product-downloads)
-
+   -en altta
+6. Host dosyasını güncelleme C:\Windows\System32\drivers\etc
 # Node.js Kurulumu
 
 Node.js sürümü: **16.16.0**
